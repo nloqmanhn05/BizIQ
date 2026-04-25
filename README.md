@@ -1,6 +1,6 @@
 <div align="center">
 
-![BizIQ Banner](file:///C:/Users/Imika/.gemini/antigravity/brain/c50c4ae9-d63d-41e5-838c-f45d35d44f2c/biziq_banner_1777143352661.png)
+
 
 # 🚀 BizIQ
 ### *Empowering Business Decisions with AI-Driven Intelligence*
