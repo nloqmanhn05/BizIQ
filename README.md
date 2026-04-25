@@ -17,11 +17,9 @@
 ## 📺 Video Demo
 
 > [!TIP]
-> **Click the thumbnail below to watch our full project walkthrough!**
+> **Click the LINK below to watch our full project walkthrough!**
 
-[![ Link BizIQ Video Demo]((https://drive.google.com/drive/folders/1CihMdGCtxqbV-8U0a4x9UcQj6Bb5S6RO))
-
-*Can't see the video? [Watch it here](https://drive.google.com/drive/folders/1CihMdGCtxqbV-8U0a4x9UcQj6Bb5S6RO)*
+*Link video DEMO (PLEASE CLICK HERE)  [Watch it here](https://drive.google.com/drive/folders/1CihMdGCtxqbV-8U0a4x9UcQj6Bb5S6RO)*
 
 ---
 
@@ -75,9 +73,10 @@ npm run install-all
 ### 3️⃣ Set Up Environment
 Create a `.env` file in the `biziq` directory:
 ```env
-GEMINI_API_KEY="your_gemini_api_key_here"
+AI_API_KEY="your_MODEL_api_key_here"
 AI_API_KEY="your_openai_api_key_here"
-AI_MODEL="gemini-1.5-flash"
+AI_MODEL="ilmu-glm-5.1"
+Firebase : "YOUR GEMINI API KEY " ; 
 PORT=3000
 ```
 
@@ -99,8 +98,7 @@ Open [**http://localhost:3000**](http://localhost:3000) to see the magic.
 
 <div align="center">
 
-Built with ❤️ for the Hackathon by **Team Antigravity**
+Built by Team Nexus
 
-[**Visit Portfolio**](https://github.com/nloqmanhn05)
 
 </div>
