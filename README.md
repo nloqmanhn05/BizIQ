@@ -21,38 +21,45 @@ BizIQ is a premium, state-of-the-art business intelligence platform designed to 
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Follow these steps to get the project running on your local machine:
 
-- Node.js (Latest LTS recommended)
-- An API Key from Google AI Studio (Gemini) or OpenAI.
-
-### Installation
-
-1. **Clone the repository** (if applicable) or navigate to the project root.
-2. **Install dependencies** for both the root and the application:
-   ```bash
-   npm run install-all
-   ```
-
-### Configuration
-
-Create a `.env` file in the `biziq` directory (or copy from `.env.example`):
-
-```env
-AI_API_KEY="YOUR API KEY"
-AI_MODEL="YOUR GEMINI MODEL" # or gpt-4o-mini
-PORT=3000
+### 1. Clone the Repository
+Open your terminal and run:
+```bash
+git clone https://github.com/nloqmanhn05/BizIQ.git
+cd BizIQ
 ```
 
-### Running the App
+### 2. Install Dependencies
+This project has a root folder and a main application folder. You can install both at once using:
+```bash
+npm install
+npm run install-all
+```
 
-Start the development server (runs both backend and frontend via Vite middleware):
+### 3. Configure Environment Variables
+1. Navigate into the `biziq` folder:
+   ```bash
+   cd biziq
+   ```
+2. Create a `.env` file (you can copy `.env.example`):
+   ```bash
+   cp .env.example .env
+   ```
+3. Open the `.env` file and add your API Key:
+   ```env
+   AI_API_KEY="YOUR API KEY"
+   AI_MODEL="YOUR GEMINI MODEL" # e.g., gemini-1.5-flash
+   PORT=3000
+   ```
 
+### 4. Run the Application
+From the root directory or the `biziq` directory, run:
 ```bash
 npm run dev
 ```
 
-The app will be available at [http://localhost:3000](http://localhost:3000).
+The app will start at **http://localhost:3000**.
 
 ## 📂 Project Structure
 
