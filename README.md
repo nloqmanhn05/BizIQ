@@ -49,7 +49,7 @@ npm run install-all
 3. Open the `.env` file and add your API Key:
    ```env
    AI_API_KEY="YOUR API KEY"
-   AI_MODEL="YOUR GEMINI MODEL" # e.g., gemini-1.5-flash
+   AI_MODEL="YOUR AI MODEL" # e.g., ilmu-glm-5.1
    PORT=3000
    ```
 
