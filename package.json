@@ -1,0 +1,13 @@
+{
+  "name": "um-z-ai-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix biziq",
+    "start": "npm run start --prefix biziq",
+    "build": "npm run build --prefix biziq",
+    "install-all": "npm install --prefix biziq"
+  },
+  "dependencies": {
+    "openai": "^6.34.0"
+  }
+}
