@@ -39,8 +39,8 @@ BizIQ is a premium, state-of-the-art business intelligence platform designed to 
 Create a `.env` file in the `biziq` directory (or copy from `.env.example`):
 
 ```env
-GEMINI_API_KEY=your_api_key_here
-AI_MODEL=gemini-1.5-flash # or gpt-4o-mini
+AI_API_KEY="YOUR API KEY"
+AI_MODEL="YOUR GEMINI MODEL" # or gpt-4o-mini
 PORT=3000
 ```
 
