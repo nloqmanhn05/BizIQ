@@ -13,22 +13,15 @@
 
 ---
 
-[**Explore the Docs »**](https://github.com/nloqmanhn05/BizIQ)
-&nbsp;·&nbsp;
-[**Report Bug »**](https://github.com/nloqmanhn05/BizIQ/issues)
-&nbsp;·&nbsp;
-[**Request Feature »**](https://github.com/nloqmanhn05/BizIQ/issues)
-
-</div>
 
 ## 📺 Video Demo
 
 > [!TIP]
 > **Click the thumbnail below to watch our full project walkthrough!**
 
-[![BizIQ Video Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![ Link BizIQ Video Demo]((https://drive.google.com/drive/folders/1CihMdGCtxqbV-8U0a4x9UcQj6Bb5S6RO))
 
-*Can't see the video? [Watch it here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)*
+*Can't see the video? [Watch it here](https://drive.google.com/drive/folders/1CihMdGCtxqbV-8U0a4x9UcQj6Bb5S6RO)*
 
 ---
 
