@@ -50,6 +50,7 @@ npm run install-all
    ```env
    AI_API_KEY="YOUR API KEY"
    AI_MODEL="YOUR AI MODEL" # e.g., ilmu-glm-5.1
+   FIREBASE : "YOUR GEMINI API KEY " 
    PORT=3000
    ```
 
